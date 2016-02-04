@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Read Out</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Text to Speech</string>
+    <string name="enter_text">Enter text here</string>
+    <string name="button">TEXT TO SPEECH</string>
+</resources>
